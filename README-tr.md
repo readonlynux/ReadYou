@@ -45,13 +45,13 @@
 
 **Read You**, [Material You](https://m3.material.io/) tarzında sunulan bir RSS okuyucusudur.
 
-Aşağıda bugüne kadar kaydedilen ilerlemeler ve yakın gelecekte üzerinde çalışılacak hedeflerimiz yer almaktadır;
+Aşağıda bugüne kadar kaydedilen ilerlemeler ve yakın gelecekte üzerinde çalışmayı planladığımız özellikler yer almaktadır;
 
 - [x] RSS besleme bağlantılarına abone olma
 - [x] OPML dosyalarını içe aktar/dışa aktar
 - [x] Yeni makalelerin bildirimi
 - [x] Makaleler için okunabilirlik optimizasyonu
-- [x] Makaleler için tam içerik inceleme
+- [x] Makaleler için tam içerik çözümleme
 - [x] Çoklu hesap
 - [x] Sesli Okuma
 - [ ] Android widget
@@ -59,7 +59,7 @@ Aşağıda bugüne kadar kaydedilen ilerlemeler ve yakın gelecekte üzerinde ç
 
 ## Entegrasyon
 
-**Read You**, mevcut bulut hesaplarınızı veri kaynağı olarak kullanabilmenizi sağlamak amacıyla bazı üçüncü taraf hizmet API'leri ile entegrasyon sağlar.
+**Read You**, mevcut bulut hesaplarınızı kullanabilmenizi sağlamak amacıyla bazı üçüncü taraf hizmet API'leri ile entegrasyon sağlar.
 
 - [x] Fever
 - [x] Google Reader
@@ -85,7 +85,7 @@ F-Droid Sürümleri, [F-Droid](https://f-droid.org/docs/FAQ_-_General/) tarafın
 
 ## Gece Sürümleri
 
-Test amaçlı olarak Gece Sürümleri sunuyoruz. Bu sürümler en son özellikleri ve iyileştirmeleri içerir ancak stabil sürümlerimiz kadar kararlı olmayabilir. Gece sürümlerinin hatalar içerebileceğini ve günlük kullanım için önerilmediğini unutmayın.
+Test amaçlı olarak Gece Sürümlerini sunuyoruz. Bu sürümler en son özellikleri ve iyileştirmeleri içerir ancak stabil sürümlerimiz kadar kararlı olmayabilir. Gece sürümlerinin hatalar içerebileceğini ve günlük kullanım için önerilmediğini unutmayın.
 
 
 Aşağıda bulunan bağlantıdan Gece sürümlerini indirebilirsiniz (GitHub hesabınızla giriş yapmanız gerekebilir):
@@ -112,7 +112,7 @@ Tüm destekleriniz için teşekkürler❤️
 
 ## Derleme
 
-> [Pull request](https://github.com/ReadYouApp/ReadYou/pulls) açmaya hoş geldiniz. [GitHub Actions](https://github.com/ReadYouApp/ReadYou/actions) her commit için tüm apk dosyası çeşitlerini otomatik olarak paketler.
+> [Pull request](https://github.com/ReadYouApp/ReadYou/pulls) açmaya hoş geldiniz. [GitHub Actions](https://github.com/ReadYouApp/ReadYou/actions) her commit için tüm apk varyantlarını otomatik olarak paketler.
 
 **Read You** Android'in yerel kullanıcı arayüzünü oluşturmak için [Jetpack Compose](https://developer.android.com/jetpack/compose) araç kitini temel alır.
 
@@ -124,11 +124,11 @@ Tüm destekleriniz için teşekkürler❤️
 
 2. Ardından [Android Studio (en son sürüm)](https://developer.android.com/studio) aracılığıyla açın.
 
-3. `▶ Çalıştır` butonuna tıkladığınızda, otomatik olarak derlenecektir.
+3. `▶ Run` butonuna tıkladığınızda, otomatik olarak derlenecektir.
 
     > Gecikme yaşanması durumunda lütfen Yayın (release) sürüm yapısını seçin.
 
-## Atıflar
+## Emeği Geçenler
 
 ### Açık kaynaklı projeler
 
