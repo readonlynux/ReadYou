@@ -49,11 +49,11 @@ Aşağıda bugüne kadar kaydedilen ilerlemeler ve yakın gelecekte üzerinde ç
 
 - [x] RSS besleme bağlantılarına abone olma
 - [x] OPML dosyalarını içe aktar/dışa aktar
-- [x] Yeni makalelerin bildirilmesi
+- [x] Yeni makaleler için bildirim
 - [x] Makaleler için okunabilirlik optimizasyonu
 - [x] Makaleler için tam içerik çözümleme
-- [x] Çoklu hesap
-- [x] Sesli Okuma
+- [x] Çoklu hesap desteği
+- [x] Sesli okuma
 - [ ] Android widget
 - [ ] ...
 
