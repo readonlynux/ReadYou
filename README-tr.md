@@ -88,11 +88,11 @@ F-Droid Sürümleri, [F-Droid](https://f-droid.org/docs/FAQ_-_General/) tarafın
 Test amaçlı olarak Gece Sürümlerini sunuyoruz. Bu sürümler en son özellikleri ve iyileştirmeleri içerir ancak stabil sürümlerimiz kadar kararlı olmayabilir. Gece sürümlerinin hatalar içerebileceğini ve günlük kullanım için önerilmediğini unutmayın.
 
 
-Aşağıda bulunan bağlantıdan Gece sürümlerini indirebilirsiniz (GitHub hesabınızla giriş yapmanız gerekebilir):
+Aşağıda bulunan bağlantıdan Gece sürümlerini indirebilirsiniz:
 
 <a target="_blank" href="https://github.com/ReadYouApp/ReadYou/actions/workflows/build_commit.yaml">Gece Sürümlerine Göz Atın</a>
 
-GitHub Actions sayfasından en son iş akışını (workflow) seçin ve "artifacts" kısmından indirin.
+GitHub Actions sayfasından en son iş akışını (workflow) seçin ve "artifacts" kısmından indirin (GitHub hesabınızla giriş yapmanız gerekebilir)
 
 **Sorun yaşanması ihtimaline karşı, gece sürümünü denemeden önce verilerinizi yedeklemeyi unutmayın.**
 
