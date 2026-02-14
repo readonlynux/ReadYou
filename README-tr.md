@@ -49,7 +49,7 @@ Aşağıda bugüne kadar kaydedilen ilerlemeler ve yakın gelecekte üzerinde ç
 
 - [x] RSS besleme bağlantılarına abone olma
 - [x] OPML dosyalarını içe aktar/dışa aktar
-- [x] Yeni makalelerin bildirimi
+- [x] Yeni makalelerin bildirilmesi
 - [x] Makaleler için okunabilirlik optimizasyonu
 - [x] Makaleler için tam içerik çözümleme
 - [x] Çoklu hesap
