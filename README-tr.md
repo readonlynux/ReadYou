@@ -90,7 +90,7 @@ Test amaçlı olarak Gece Sürümlerini sunuyoruz. Bu sürümler en son özellik
 
 Aşağıda bulunan bağlantıdan Gece sürümlerini indirebilirsiniz (GitHub hesabınızla giriş yapmanız gerekebilir):
 
-<a target="_blank" href="https://github.com/ReadYouApp/ReadYou/actions/workflows/build_commit.yaml">Gece Sürümlerini kontrol edin</a>
+<a target="_blank" href="https://github.com/ReadYouApp/ReadYou/actions/workflows/build_commit.yaml">Gece Sürümlerine Göz Atın</a>
 
 GitHub Actions sayfasından en son iş akışını (workflow) seçin ve "artifacts" kısmından indirin.
 
