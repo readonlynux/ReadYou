@@ -159,6 +159,6 @@ Tüm destekleriniz için teşekkürler❤️
 
 **Weblate**'e, **Read You** ve diğer açık kaynak projelerin ücretsiz barındırılmasını sağladığı için teşekkürler.
 
-## Lisanslar
+## Lisans
 
 GNU GPL v3.0 © [Read You](https://github.com/ReadYouApp/ReadYou/blob/main/LICENSE)
